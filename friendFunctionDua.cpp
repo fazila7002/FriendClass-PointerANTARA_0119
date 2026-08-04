@@ -13,3 +13,12 @@ class pelajar
 private:
     int nilai;
 };
+
+class pelajar
+{
+private:
+    int nilai;
+
+public:
+    pelajar() { nilai = 100; }
+};
